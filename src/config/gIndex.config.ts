@@ -47,7 +47,7 @@ const config: z.input<typeof Schema_Config> = {
      * Then, copy the folder id and paste it here
      */
     rootFolder:
-      "4e160ce6fc3fe19f68c49bd7b7355b5fba2002123212a2d62efdd0240c84c8697e145d1b3f32f44c430c70b31e34e702eb;294a4d1ce90e93765a2beea8",
+      "29d68dd615453be41ba7467d789fb80aaf0a44f97624e7ab1752c3aa78af11b209cb57ccffe2167e09a70db427d25a299a;32908659f971e1f6a96f48e1",
 
     /**
      * If your rootfolder inside a shared drive, you NEED to set this to true
@@ -174,7 +174,7 @@ const config: z.input<typeof Schema_Config> = {
      */
     siteName: "minn's drive",
     siteNameTemplate: "%s - %t",
-    siteDescription: "hottie hottie, like a bag of takis i'm the shit",
+    siteDescription: "hottie hottie i'm the shit",
     siteIcon: "/logo.svg",
     siteAuthor: "nhminn",
     favIcon: "/favicon.png",
@@ -184,7 +184,7 @@ const config: z.input<typeof Schema_Config> = {
      * ref: https://nextjs.org/docs/app/api-reference/functions/generate-metadata#robots
      */
     robots: "noindex, nofollow",
-    twitterHandle: "@soraliee",
+    twitterHandle: "@mbaharip_",
 
     /**
      * Show file extension on the file name
